@@ -4,7 +4,9 @@ This research project is created by Wei Du.
 
 
 ## Requirements
-torch == 1.6.0  
+torch == 1.6.0
+transformers == 4.21.1
+datasets == 1.17.0
 openprompt == 1.0.1
 
 
