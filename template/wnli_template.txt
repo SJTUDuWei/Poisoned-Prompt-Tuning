@@ -1,0 +1,2 @@
+sentence1: {"placeholder":"text_a"} sentence2: {"placeholder":"text_b"} {"mask"}
+{"soft": None, "duplicate": 20} sentence1: {"placeholder": "text_a"} sentence2: {"placeholder": "text_b"} {"mask"}

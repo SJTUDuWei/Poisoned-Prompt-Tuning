@@ -1,0 +1,2 @@
+{"placeholder": "text_a"} is {"mask"}
+{"soft": None, "duplicate": 20} {"placeholder": "text_a"} is {"mask"}
