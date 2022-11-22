@@ -1,4 +1,4 @@
-# Poisoned_Prompt_Tuning
+# Poisoned-Prompt-Tuning
 This is the implementation of our paper 'PPT：Bakcdoor Attacks on Pre-trained Models via Poisoned Prompt Tuning', accepted by the IJCAI 2022. 
 This research project is created by Wei Du.
 
