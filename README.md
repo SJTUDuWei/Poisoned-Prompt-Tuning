@@ -13,8 +13,11 @@ openprompt == 1.0.1
 
 ## Reference
 ```
-@article{duppt,
-  title={PPT: Backdoor Attacks on Pre-trained Models via Poisoned Prompt Tuning},
-  author={Du, Wei and Zhao, Yichun and Li, Boqun and Liu, Gongshen and Wang, Shilin}
+@inproceedings{du2022ppt,
+  title={PPT: Backdoor Attacks on Pre-trained Models via Poisoned Prompt Tuning.},
+  author={Du, Wei and Zhao, Yichun and Li, Boqun and Liu, Gongshen and Wang, Shilin},
+  booktitle={IJCAI},
+  pages={680--686},
+  year={2022}
 }
 ```
